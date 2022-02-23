@@ -1,0 +1,19 @@
+{
+  "name": "andrey_npm_package",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverstandart/DevOps_Module_B9.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silverstandart/DevOps_Module_B9/issues"
+  },
+  "homepage": "https://github.com/silverstandart/DevOps_Module_B9#readme"
+}
