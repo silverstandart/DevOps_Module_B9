@@ -6,7 +6,4 @@ Created by Andrey
 npm init
 ```
 
-
-askldjfa;lskdjf
-
 
